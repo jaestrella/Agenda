@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Agenda</string>
+    <string name="nombre">Nombre:</string>
+    <string name="edad">Edad:</string>
+    <string name="email">Email:</string>
+    <string name="autoComplete">Artistas con AutoComplete</string>
+    <string name="multiComplete">Artistas con MultiComplete</string>
+    <string name="spinner">Lista spinner provincias</string>
+    <string name="boton">Recoger datos</string>
+</resources>
